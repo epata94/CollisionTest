@@ -1,6 +1,6 @@
 import java.util.Scanner;
-// 5
-public class Calculator { // a
+// 1
+public class Calculator { 
     public static void main(String[] args) {
     }
 }
